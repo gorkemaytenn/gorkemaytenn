@@ -21,9 +21,6 @@
 ![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![]()
-![]()
-
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -53,10 +50,3 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=gorkemaytenn&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gorkemaytenn&theme=vue" />
 </p>
-
----
-[![](https://visitcount.itsvg.in/api?id=gorkemaytenn&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<div align="center">
-</div>
-
