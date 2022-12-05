@@ -37,7 +37,7 @@
 
 ## 📈 Activity Graph
 <p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=gorkemaytenn&theme=minimal"/>
+	<img src="https://github-readme-activity-graph.cyclic.app/graph?theme=merko&username=gorkemaytenn"/>
 </p>
 
 ## 💳 Github Profile Summary Card
