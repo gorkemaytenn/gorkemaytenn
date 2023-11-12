@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gorkemaytenn&label=Views&color=blue&style=plastic&style=for-the-badge" alt="gorkemaytenn" /> </p>
 
 # ℹ️ About Me : 
-- <img src="https://hipolabs.com/static/v4/img/logo.svg" style="width:20px;height:10px;">  I’m currently Backend Developer at [Hipo](https://hipolabs.com/). 
-- <img src="https://cryptologos.cc/logos/algorand-algo-logo.svg?v=023" style="width:20px;height:20px;"> I’m currently learning more about Algorand Blockchain. 
+- <img src="https://avatars.githubusercontent.com/u/27960312?s=200&v=4" style="width:15px;height:15px;">  I’m currently Backend Developer at [Akinon]([https://hipolabs.com/](https://akinon.com/)). 
 - 📫 How to reach me: Check social links below.
 
 
