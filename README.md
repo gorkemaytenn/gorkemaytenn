@@ -9,7 +9,7 @@
 ---
 
 ### 🔎 About Me
-- 💼 Currently a Backend Developer at [Good Job Games](https://www.goodjobgames.com/)
+- 💼 Currently a Software Engineer at [Good Job Games](https://www.goodjobgames.com/)
 - 💻 Backend Engineer experienced in building scalable microservices and high-throughput systems (100M+ daily requests).
 - 🧠 Strong backend expertise with Go, Python, Django, gRPC, AWS, Redis, PostgreSQL, and Kubernetes.
 - 📜 Research published at SANER 2025: [Evaluating ReLink for Traceability Link Recovery in Practice](https://www.researchgate.net/publication/387983699_Evaluating_ReLink_for_Traceability_Link_Recovery_in_Practice)
