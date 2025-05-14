@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gorkem Ayten 👋</h1>
 
-<p align="center">Backend Engineer · Go & Python Developer · Scalable Systems Enthusiast</p>
+<p align="center">Software Engineer · Go & Python Developer · Scalable Systems Enthusiast</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gorkemaytenn&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
